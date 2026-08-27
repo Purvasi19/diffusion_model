@@ -335,7 +335,7 @@ The experiment provides a practical understanding of how **U-Net, noise scheduli
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible improvements include:
 
